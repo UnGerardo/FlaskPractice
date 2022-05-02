@@ -1,8 +1,7 @@
 /myvenv/
 
 *.pvc
-/__pycache__/
-*/__pycache__/
+**/__pycache__/
 
 instance/
 
